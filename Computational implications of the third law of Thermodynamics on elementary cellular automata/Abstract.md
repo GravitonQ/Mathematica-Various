@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Computational implications of the third law of Thermodynamics on elementary cellular automata/Header Image WSS22 Project.svg" width="350" title="hover text">
+  <img src="Mathematica-Various/Computational implications of the third law of Thermodynamics on elementary cellular automata/Header Image WSS22 Project.svg" width="350" title="hover text">
 </p>
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
 ##By Gianmarco Morbelli
