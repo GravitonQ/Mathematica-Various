@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://ibb.co/VST8XPc)
 
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
 ##By Gianmarco Morbelli
