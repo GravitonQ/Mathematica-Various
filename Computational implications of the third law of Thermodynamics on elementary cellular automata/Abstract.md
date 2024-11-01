@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/13Be5hYGcbfceC0R9NLNzNxSonBOek5bw/view?usp=share_link" width="350" title="hover text">
+  <img src="https://drive.google.com/file/d/1CBXodU1ibcw4ORL1jhhSNuhlHwS4EY_a/view?usp=share_link" width="350" title="hover text">
 </p>
 
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
