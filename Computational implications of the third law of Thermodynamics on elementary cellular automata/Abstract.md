@@ -1,5 +1,5 @@
 
-<a href="https://ibb.co/VST8XPc"><img src="https://i.ibb.co/R0cWLVk/Header-Image-WSS22-Project.png" alt="Header-Image-WSS22-Project" border="0"></a>
+<a href="https://ibb.co/VST8XPc"><img src="[https://i.ibb.co/R0cWLVk/Header-Image-WSS22-Project.png" alt="Header-Image-WSS22-Project](https://drive.google.com/file/d/13Be5hYGcbfceC0R9NLNzNxSonBOek5bw/view?usp=share_link)" border="0"></a>
 
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
 ##By Gianmarco Morbelli
