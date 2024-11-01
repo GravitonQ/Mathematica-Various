@@ -1,5 +1,7 @@
-![alt text](https://ibb.co/VST8XPc/to/img.png)
-
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
 ##By Gianmarco Morbelli
 ###University of Groningen
