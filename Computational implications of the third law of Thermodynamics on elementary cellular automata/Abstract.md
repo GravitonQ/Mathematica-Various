@@ -1,5 +1,5 @@
 
-[Header Image WSS22 Project.svg](/Mathematica-Various/Computational implications of the third law of Thermodynamics on elementary cellular automata/Header Image WSS22 Project.svg)
+<a href="https://ibb.co/VST8XPc"><img src="https://i.ibb.co/R0cWLVk/Header-Image-WSS22-Project.png" alt="Header-Image-WSS22-Project" border="0"></a>
 
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
 ##By Gianmarco Morbelli
