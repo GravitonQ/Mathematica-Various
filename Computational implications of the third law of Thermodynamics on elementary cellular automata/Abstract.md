@@ -2,7 +2,6 @@
 
 # **Computational implications of the third law of Thermodynamics on elementary cellular automata**
 ## By Gianmarco Morbelli
-## University of Groningen
 
 The Third Law of Thermodynamics asserts the impossibility to reduce the entropy
 of a system to its absolute-zero value in a finite number of steps.
