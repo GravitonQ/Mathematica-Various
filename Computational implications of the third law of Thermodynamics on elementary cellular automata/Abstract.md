@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://ibb.co/473tw7h" width="350" title="hover text">
-</p>
+<a href="https://ibb.co/473tw7h"><img src="https://i.ibb.co/vHRqCH0/pixelcut-export.png" alt="pixelcut-export" border="0"></a>
 
 #Computational implications of the third law of Thermodynamics on elementary cellular automata
 ##By Gianmarco Morbelli
